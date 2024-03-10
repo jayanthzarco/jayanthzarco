@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayanth
-- 👀 I’m interested in ... 3D PIPELINE DEVELOPMENT 
+- 👀 I’m interested in ... 3D PIPELINE DEVELOPMENT FOR CGI AND VFX
 - 🌱 I’m currently learning ... ADVANCE API CONCEPTS OF CG SOFTWARES
 - 💞️ I’m looking to collaborate on ... PIPELINE TD
 - 📫 How to reach me ... jayu.zroco@gmail.com
